@@ -21,7 +21,7 @@
 }
 html,
 body {
-    height: 100%;
+    height: %;
 }
 body {
     -ms-overflow-style: none; /* for Internet Explorer, Edge */
